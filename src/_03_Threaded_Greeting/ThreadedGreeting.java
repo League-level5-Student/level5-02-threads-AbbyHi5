@@ -15,7 +15,7 @@ public class ThreadedGreeting {
 	 * Hello from thread number: 5
 	 * Hello from thread number: 6
 	 * Hello from thread number: 7
-	 * etc...
+	 * etc...s
 	 */
 	
 	//1. Create a new class called ThreadedGreeter that implements the Runnable interface.
